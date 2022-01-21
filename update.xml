@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>1.2</latestVersion>
-    <latestVersionCode>3</latestVersionCode>
+    <latestVersionCode>1</latestVersionCode>
     <url>https://raw.githubusercontent.com/ottodevelopers/acharushwa/main/app-release.apk</url>
   </update>
 </AppUpdater>
