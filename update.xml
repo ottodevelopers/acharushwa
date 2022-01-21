@@ -2,6 +2,6 @@
   <update>
     <latestVersion>1.2</latestVersion>
     <latestVersionCode>3</latestVersionCode>
-    <url>https://github.com/ottodevelopers/acharushwa/blob/main/app-release.apk?raw=true</url>
+    <url>https://raw.githubusercontent.com/ottodevelopers/acharushwa/main/app-release.apk</url>
   </update>
 </AppUpdater>
